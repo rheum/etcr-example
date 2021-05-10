@@ -1,4 +1,4 @@
-package org.etcr.exaple;
+package org.etcr.example;
 
 import java.util.Arrays;
 
