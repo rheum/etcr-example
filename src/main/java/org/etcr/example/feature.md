@@ -3,8 +3,8 @@ foo bar spam eggs
 
 
 # Test section 2
-lorem ipsum dolor sit
+ipsum dolor sit
 
 
 # Test section 3
-what did you say?
+what did you say? nothing
