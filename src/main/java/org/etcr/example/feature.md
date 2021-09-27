@@ -1,9 +1,9 @@
 # Test section 1
-foo bar spam
+foo bar spam eggs
 
 
 # Test section 2
-lorem ipsum dolor
+lorem ipsum dolor sit
 
 
 # Test section 3
